@@ -13,8 +13,11 @@
 👩‍💻 I am looking for opportunities, ideally in 
 
 -creative (film, video game, artistic)
+
 -disruptive technology
+
 -education
+
 -non-profit industries
 
 ⚡ but that is not a requirement!
