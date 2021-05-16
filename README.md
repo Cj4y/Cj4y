@@ -12,13 +12,10 @@
 
 👩‍💻 I am looking for opportunities, ideally in 
 
--creative (film, video game, artistic)
-
--disruptive technology
-
--education
-
--non-profit industries
+- creative (film, video game, artistic)
+- disruptive technology
+- education
+- non-profit sector
 
 ⚡ but that is not a requirement!
  
