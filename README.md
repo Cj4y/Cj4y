@@ -19,7 +19,7 @@
 ⚡ but that is not a requirement!
  
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@cj4y](cjtollola@gmail.com);
+- 📫 How to reach me: [cjtollola@gmail.com](cjtollola@gmail.com);
 - 📝 [Resume]()
 
 **Languages and Tools:**  
