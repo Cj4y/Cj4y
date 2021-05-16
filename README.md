@@ -4,10 +4,19 @@
 </a>
 <br />
 
-Hi, I'm a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm a recent software engineering graduate from the University of Ottawa, Canada.
+🚚 I'm moving to Vancouver !
+
+ globe-traveler with well-developed interpersonal and technical skills. 
+I am looking for opportunities, ideally in 
+-creative (film, video game, artistic)
+-disruptive technology
+-education
+-non-profit industries
+but that is not a requirement!
 
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/cj4y/cj4y/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@cj4y](cjtollola@gmail.com);
