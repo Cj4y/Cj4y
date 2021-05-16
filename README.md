@@ -4,16 +4,20 @@
 </a>
 <br />
 
-Hi, I'm a recent software engineering graduate from the University of Ottawa, Canada.
+🤓 Hi, I'm a recent software engineering graduate from the University of Ottawa, Canada. 
+
 🚚 I'm moving to Vancouver !
 
- globe-traveler with well-developed interpersonal and technical skills. 
-I am looking for opportunities, ideally in 
+🗺️ I'm an aspiring globe-traveler with well-developed interpersonal and technical skills. 
+
+👩‍💻 I am looking for opportunities, ideally in 
+
 -creative (film, video game, artistic)
 -disruptive technology
 -education
 -non-profit industries
-but that is not a requirement!
+
+⚡ but that is not a requirement!
 
 
   <img align="right" alt="GIF" src="https://github.com/cj4y/cj4y/blob/master/code.gif?raw=true" width="500" height="320" />
