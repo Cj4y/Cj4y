@@ -18,10 +18,7 @@
 -non-profit industries
 
 ⚡ but that is not a requirement!
-
-
-  <img align="right" alt="GIF" src="https://github.com/cj4y/cj4y/blob/master/code.gif?raw=true" width="500" height="320" />
-  
+ 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@cj4y](cjtollola@gmail.com);
 - 📝 [Resume]()
@@ -36,12 +33,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-JavaScript   6 mins          █████████████████▒░░░░░░░   69.71 % 
-HTML         2 mins          ███████▓░░░░░░░░░░░░░░░░░   30.29 % 
-```
 <!--END_SECTION:waka-->
 
 📈 My GitHub Stats
