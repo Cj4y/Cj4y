@@ -11,8 +11,8 @@
 
 👩‍💻 I am looking for opportunities, ideally in 
 
-- creative (film, video game, artistic)
 - disruptive technology
+- creative (film, video game, artistic)
 - education
 - non-profit sector
 
