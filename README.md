@@ -20,7 +20,8 @@
  
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [cjtollola@gmail.com](cjtollola@gmail.com);
-- 📝 [Resume]()
+- 📝 [Resume](https://drive.google.com/file/d/1DaF6AM2Fuit70j0HOMfxAFrjlVfqlz1Y/view?usp=sharing)
+- 🎭 [Check out my state of the art review of technology and algorithms in interactive art exhibitions!](https://arxiv.org/abs/2105.09153)
 
 **Languages and Tools:**  
 
