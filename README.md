@@ -7,7 +7,7 @@
 🤓 I'm a recent software engineering graduate from the University of Ottawa, Canada. 
    🚚 I'm moving to Vancouver !
 
-🗺️ I'm an aspiring globe-traveler with well-developed interpersonal and technical skills. 
+🗺️ I'm an aspiring globe-traveller 
 
 👩‍💻 I am looking for opportunities, ideally in 
 
