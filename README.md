@@ -9,8 +9,9 @@
 
 🗺️ I'm an aspiring globe-traveller 
 
-👩‍💻 I am looking for opportunities, ideally in 
+👩‍💻 I'm a production engineer at ILM!
 
+Topics I follow:
 - disruptive technology
 - creative (film, video game, artistic)
 - education
