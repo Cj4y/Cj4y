@@ -4,8 +4,7 @@
 </a>
 <br />
 
-🤓 I'm a recent software engineering graduate from the University of Ottawa, Canada. 
-   🚚 I'm moving to Vancouver !
+🤓 I'm a software engineering graduate from the University of Ottawa, Canada.
 
 🗺️ I'm an aspiring globe-traveller 
 
