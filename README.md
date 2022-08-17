@@ -16,7 +16,7 @@ Topics I follow:
 - education
 - non-profit sector
 
-⚡ but that is not a requirement!
+⚡ I'll post up exercises on what I've been learning!
  
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [cjtollola@gmail.com](cjtollola@gmail.com);
